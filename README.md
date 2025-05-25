@@ -1,4 +1,4 @@
-# Islamic Prayer Hub - Progressive Web App
+# Salah Sense - Progressive Web App
 
 A modern, minimal, and user-friendly Islamic Prayer Progressive Web App (PWA) that provides prayer-related content with Arabic text, audio playback, and translations in Bangla and English.
 

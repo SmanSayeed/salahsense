@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "Salah Sense"
+  },
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "about": "About",
+    "search": "Search"
+  },
+  "header": {
+    "reportMistakes": "Report mistakes",
+    "clearCache": "Clear cache",
+    "reload": "Reload"
+  },
+  "hero": {
+    "title": "Complete Islamic Prayer Guide",
+    "subtitle": "Discover authentic prayers, duas, and kalams with translations"
+  },
+  "footer": {
+    "madeWith": "Made with",
+    "forUmmah": "for the Ummah"
+  }
+} 

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "bangla_category": "নামাজের কালাম ও দোয়া",
+    "english_category": "Salah Supplications and Prayers"
+  },
+  {
+    "id": 2,
+    "bangla_category": "নামাজের নিয়ত",
+    "english_category": "Intention for Salah"
+  },
+  {
+    "id": 3,
+    "bangla_category": "নামাজের প্রকারভেদ",
+    "english_category": "Types of Salah"
+  },
+  {
+    "id": 4,
+    "bangla_category": "গুরুত্বপূর্ণ নামাজ",
+    "english_category": "Important Prayers"
+  },
+  {
+    "id": 5,
+    "bangla_category": "ইসলামের মূল ভিত্তি",
+    "english_category": "Pillars of Islam"
+  },
+  {
+    "id": 6,
+    "bangla_category": "দৈনন্দিন দোয়া",
+    "english_category": "Daily Supplications"
+  },
+  {
+    "id": 7,
+    "bangla_category": "জিকির ও তাসবীহ",
+    "english_category": "Dhikr and Tasbih"
+  },
+  {
+    "id": 8,
+    "bangla_category": "বিশেষ দোয়া",
+    "english_category": "Special Supplications"
+  },
+  {
+    "id": 9,
+    "bangla_category": "রমজানের দোয়া",
+    "english_category": "Ramadan Supplications"
+  },
+  {
+    "id": 10,
+    "bangla_category": "হজ্জের দোয়া",
+    "english_category": "Hajj Supplications"
+  },
+  {
+    "id": 11,
+    "bangla_category": "ঈদের দোয়া",
+    "english_category": "Eid Prayer"
+  }
+]
